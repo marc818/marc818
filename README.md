@@ -1,13 +1,14 @@
 ##👋 Hi, I'm Marc Henry!
-##💻 Computer Engineering Student
+
+💻 Computer Engineering Student
 
 I'm a Computer Engineering student interested in software development, embedded systems, databases, networking, and hardware. I enjoy building projects, learning new technologies, and figuring out how things work from writing code to working with microcontrollers and computer hardware.
 
 🚀 About Me
-🗄️ Learning and working with Databases & SQL
-🌐 Exploring Web Development & Networking
-🧠 Always learning and improving my programming skills
-🛠️ I like turning ideas into working projects
+	Learning and working with Databases & SQL
+  Exploring Web Development & Networking
+  Always learning and improving my programming skills
+  I like turning ideas into working projects
 
 📫 Connect With Me
 📧 Email: marchenry12unciano@gmail.com
